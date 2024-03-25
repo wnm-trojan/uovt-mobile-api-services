@@ -1,0 +1,46 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+appdirs == "*"
+attrs == "*"
+bcrypt == "*"
+certifi == "*"
+cffi == "*"
+Click == "*"
+distlib == "*"
+filelock == "*"
+Flask == "*"
+Flask-Cors == "*"
+flask-jsonschema-validator == "*"
+Flask-JWT == "*"
+Flask-JWT-Extended == "*"
+flask-marshmallow == "*"
+Flask-SQLAlchemy == "*"
+importlib-metadata == "*"
+itsdangerous == "*"
+Jinja2 == "*"
+jsonschema == "*"
+MarkupSafe == "*"
+marshmallow == "*"
+marshmallow-sqlalchemy == "*"
+pipenv == "*"
+pycparser == "*"
+PyJWT == "*"
+PyMySQL == "*"
+pyrsistent == "*"
+python-dotenv == "*"
+six == "*"
+SQLAlchemy == "*"
+virtualenv == "*"
+virtualenv-clone == "*"
+Werkzeug == "*"
+zipp == "*"
+
+
+[requires]
+python_version = "3.7"

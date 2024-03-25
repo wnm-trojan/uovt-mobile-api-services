@@ -1,0 +1,6 @@
+version: '3'
+services:
+  univox_mobile_api_services:
+    build: .
+    ports:
+      - 5001:5001
